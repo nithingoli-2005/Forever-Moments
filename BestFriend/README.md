@@ -1,2 +1,1 @@
-# BestFriend_
-You can download.. modify and Grow it
+It is a beautifully designed personal web page that captures and showcases our most cherished memories together. Built with love and creativity, this project serves as a digital scrapbook filled with photos, heartfelt notes, and special moments that define our journey.
